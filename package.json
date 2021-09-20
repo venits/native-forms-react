@@ -1,0 +1,27 @@
+{
+  "name": "native-forms-react",
+  "version": "1.9.5",
+  "description": "Build forms, surveys and polls for React.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venits/native-forms-react"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "forms",
+    "form",
+    "survey",
+    "poll",
+    "feedback",
+    "website",
+    "widget",
+    "native-forms",
+    "nps"
+  ],
+  "author": "NativeForms"
+}
